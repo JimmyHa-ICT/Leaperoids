@@ -1,0 +1,7 @@
+﻿cl : command line warning D9035: option 'Gm' has been deprecated and will be removed in a future release
+  Util.cpp
+F:\LEAP2021\FinalProject\Leaperoids\TrainingFramework\src\Util.cpp(23,18): warning C4146: unary minus operator applied to unsigned type, result still unsigned
+F:\LEAP2021\FinalProject\Leaperoids\TrainingFramework\src\Util.cpp(71): warning C4715: 'Util::ConvertBulletTexture': not all control paths return a value
+F:\LEAP2021\FinalProject\Leaperoids\TrainingFramework\src\Util.cpp(47): warning C4715: 'Util::ConvertShipTexture': not all control paths return a value
+F:\LEAP2021\FinalProject\Leaperoids\TrainingFramework\src\Util.cpp(59): warning C4715: 'Util::ConvertLifeTexture': not all control paths return a value
+  TrainingFramework.vcxproj -> F:\LEAP2021\FinalProject\Leaperoids\BIN-Nvidia\TrainingFramework.exe
